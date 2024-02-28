@@ -1,4 +1,4 @@
-# Tarefas
+
 <img src="https://i.imgur.com/BqWj0mU.jpeg" height="600px">
 
 Este é um aplicativo simples de cadastro de tarefas desenvolvido com React Native e Expo, projetado para ajudá-lo a organizar suas atividades diárias de maneira eficiente.
